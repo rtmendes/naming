@@ -1,0 +1,175 @@
+# Availability — Checking and Securing Names
+
+A great name that's unavailable is just a word. Availability checking should happen after filtering (not before — don't let availability dictate creative direction), but before emotional investment.
+
+---
+
+## Checking Workflow
+
+Check in this order. Stop investing time in a name if it fails an early step.
+
+### 1. Quick Disqualification (30 seconds)
+
+Before any platform-specific checks:
+
+- **Search "[name] + your industry/category"** — Are there direct competitors with this name?
+- **Search just "[name]"** — Is it a major existing brand in ANY industry?
+- **Check Wikipedia** — Does the word have problematic associations you missed?
+
+If there's a direct competitor with the same name in the same space, the name is dead. Move on.
+
+If there's a large brand in a different industry (e.g., "Apex" is a hundred things), you CAN still use the name — but you'll be fighting for search visibility forever. Weigh whether that fight is worth it.
+
+### 2. Domain Availability
+
+**Priority order:**
+1. `[name].com` — Still the gold standard for credibility, especially with non-technical audiences
+2. `[name].dev` — Excellent for developer tools. Google-managed, requires HTTPS
+3. `[name].io` — Established in tech, but long-term future uncertain (Chagos Islands sovereignty transfer)
+4. `[name].app` — Google-managed, requires HTTPS. Good for consumer apps
+5. `[name].co` — Short, professional, no stigma
+6. `[name].sh` — Popular for CLI tools and developer products
+7. `[name].so` — Uncommon but clean
+
+**If exact .com is taken (it probably is):**
+- `get[name].com` — Established pattern (getbootstrap.com)
+- `use[name].com` — Common for SaaS tools
+- `[name]hq.com` — Professional alternative
+- `try[name].com` — For products with free tiers
+- `[name]app.com` — For mobile/web apps
+
+**Domain landscape reality:**
+- 350M+ domain registrations globally. Good single-word .com is essentially impossible without purchasing
+- For developer tools and SaaS: .dev, .io, and .sh carry zero stigma
+- For consumer products: .com still matters for trust, but .co and .app are gaining acceptance
+- Avoid novelty TLDs (.xyz, .ninja, .guru, .io.cool) for serious products — they signal impermanence
+- Don't negotiate with domain squatters unless you're prepared to pay $5k-$50k+
+
+### 3. Code Platform Availability
+
+**GitHub:**
+- Check organization name: `github.com/[name]`
+- Check repository: `github.com/[yourorg]/[name]`
+- For open source, the org name matters more than the repo name
+
+**Package registries:**
+- **npm:** `npm view [name]` or check npmjs.com/package/[name]
+- **PyPI:** pypi.org/project/[name]
+- **crates.io:** crates.io/crates/[name]
+- **Go modules:** pkg.go.dev/[name]
+- **RubyGems:** rubygems.org/gems/[name]
+
+For package names, prefixing is acceptable (`@org/name`, `org-name`) and often required anyway.
+
+### 4. Social Media Handles
+
+**Priority depends on your audience:**
+
+| Platform | Priority for | Check |
+|----------|-------------|-------|
+| X/Twitter | Most products | x.com/[name] |
+| GitHub | Developer tools | github.com/[name] |
+| LinkedIn | Enterprise/B2B | linkedin.com/company/[name] |
+| Instagram | Consumer/creative | instagram.com/[name] |
+| YouTube | Content-heavy products | youtube.com/@[name] |
+| Reddit | Community-driven products | reddit.com/r/[name] |
+| Telegram | Bot/channel products | @[name] on Telegram |
+| Discord | Community products | Check if [name] servers exist |
+
+**Handle strategies when exact match is taken:**
+- `@get[name]` or `@use[name]`
+- `@[name]hq` or `@[name]app`
+- `@[name]_official` (last resort — looks defensive)
+
+### 5. Trademark Search
+
+For serious products, do a basic trademark search. You don't need a lawyer for initial screening.
+
+**Resources:**
+- **USPTO TESS** (US trademarks): tmsearch.uspto.gov
+- **EUIPO TMview** (EU trademarks): tmdn.org/tmview
+- **WIPO Global Brand Database** (international): branddb.wipo.int
+- **Google Patents / Trademarks:** Quick supplementary search
+
+**What to look for:**
+- Exact matches in your product category (Nice Classification)
+- Phonetically identical names with different spellings
+- Names that would be confusingly similar to consumers
+
+**Reality check:** For small projects, indie products, and open source, a basic search is sufficient. For products you plan to scale commercially, consult a trademark attorney before investing heavily in brand assets.
+
+---
+
+## Availability Decision Framework
+
+Not every platform needs to be available. Prioritize based on your product type:
+
+| Product Type | Must have | Nice to have | Don't worry about |
+|---|---|---|---|
+| **SaaS product** | Domain, GitHub | X/Twitter, LinkedIn | Instagram, TikTok |
+| **Developer tool** | GitHub org/repo, package registry | Domain, X/Twitter | Instagram, LinkedIn |
+| **Consumer app** | Domain, app store name | Instagram, X/Twitter | GitHub, npm |
+| **Open source** | GitHub org, package name | Domain | Social handles |
+| **Telegram bot** | Telegram @handle | GitHub repo | Domain, social |
+| **Content brand** | Social handles | Domain | Package registries |
+
+---
+
+## When to Compromise vs. When to Pivot
+
+### Compromise (the name is worth fighting for):
+- Exact .com is taken but a good prefix variant is available (get[name].com)
+- One social handle is taken but all others are available
+- Package name is taken but you can use an org prefix (@org/name)
+- The name has strong metaphor, story, and sound
+
+### Pivot (find a different name):
+- A direct competitor has the name
+- Multiple critical platforms are unavailable
+- The domain squatter wants $50k+ and you're bootstrapped
+- Trademark conflict in your product category
+- The name is available everywhere but only because nobody wants it (red flag)
+
+---
+
+## Availability-Proof Naming Strategies
+
+Some naming approaches are inherently more likely to have availability:
+
+**Higher availability:**
+- Compound words (two real words combined in an original way)
+- Modified real words (truncated, blended, or suffixed)
+- Cross-language borrowing (words from less-pillaged languages)
+- Cultural references (specific, not obvious ones)
+
+**Lower availability:**
+- Single common English words (almost all taken as .com)
+- Tech buzzwords (cloud, smart, data, AI — all combinations exhausted)
+- Trending cultural references (whatever's popular right now)
+
+**The paradox:** The more creative and specific your naming process, the more likely your name is to be available — because genuinely original combinations don't exist yet. This is another reason to invest in metaphor exploration rather than word generation.
+
+---
+
+## Quick Availability Check Script
+
+For technical users, automate the tedious parts:
+
+```bash
+NAME="yourname"
+
+# Domain check (requires 'whois' or API)
+whois ${NAME}.com | grep -i "no match\|not found"
+whois ${NAME}.dev | grep -i "no match\|not found"
+whois ${NAME}.io | grep -i "no match\|not found"
+
+# GitHub org check
+curl -s -o /dev/null -w "%{http_code}" https://github.com/${NAME}
+# 404 = available, 200 = taken
+
+# npm check
+npm view ${NAME} 2>&1 | grep -i "not found"
+# "not found" = available
+```
+
+Note: Automate for speed but always verify manually before committing. Automated checks can give false positives.
