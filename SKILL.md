@@ -59,6 +59,7 @@ Load these references as needed:
 - [phonosemantics.md](phonosemantics.md) — matching sound to meaning
 - [cultural-references.md](cultural-references.md) — using mythology, literature, science
 - [brand-architecture.md](brand-architecture.md) — if naming within a brand family
+- [language-rules.md](language-rules.md) — when using foreign words or non-English source languages. Covers pronunciation accessibility, cross-language meaning checks, diacritics, transliteration, and the exoticism trap
 - [languages/\<locale\>.md](languages/) — if the naming brief targets a non-English language or multilingual audience. Load the relevant locale file(s) and use its phonosemantic rules, word formation patterns, and cultural conventions instead of (or alongside) the English defaults
 
 ### Step 4: Filter
@@ -158,6 +159,7 @@ Don't keep pushing weak names forward. Looping back to an earlier step produces 
 | [metaphor-mapping.md](metaphor-mapping.md) | When exploring conceptual territories |
 | [cultural-references.md](cultural-references.md) | When considering mythology, literature, or science references |
 | [brand-architecture.md](brand-architecture.md) | When naming within a product family |
+| [language-rules.md](language-rules.md) | When using foreign words or non-English source languages |
 | [availability.md](availability.md) | When checking platform availability |
 | [case-studies.md](case-studies.md) | When studying real-world naming examples |
 | [evaluation.md](evaluation.md) | When scoring and comparing finalists |
