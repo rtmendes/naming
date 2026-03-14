@@ -47,6 +47,7 @@ Rate each finalist on these criteria. Use a 1-5 scale where:
 | **Global friendliness** | Can speakers of other languages pronounce it? Any negative meanings in other languages? | 1x |
 | **Longevity** | Will the name still work in 5-10 years? Does it reference anything that will date it? | 1x |
 | **Searchability** | Can someone Google it and find you? Or is the word too common/competitive? | 1x |
+| **Competitive density** | How many other organizations in the same or adjacent industries use this name? Names that passed the availability gate (no direct competitor) can still face varying degrees of competitive noise from adjacent-space usage (schools, foundations, agencies, consulting firms). Score: 5 = no other orgs in same/adjacent spaces; 4 = 1-2 uses in clearly different industries; 3 = a few uses in adjacent spaces; 2 = multiple orgs in the same broad category; 1 = crowded, word is established in the target industry by multiple entities. | 1x |
 
 ### Scoring Template
 
@@ -70,11 +71,12 @@ CONTEXT (situational):
   Global friendliness  [1-5] × 1 = ___
   Longevity            [1-5] × 1 = ___
   Searchability        [1-5] × 1 = ___
+  Competitive density  [1-5] × 1 = ___
 
-TOTAL: ___ / 100
+TOTAL: ___ / 105
 ```
 
-Maximum possible score: 100 (all 5s). In practice, anything above 75 is strong. Above 85 is exceptional.
+Maximum possible score: 105 (all 5s). In practice, anything above 75 is strong. Above 85 is exceptional.
 
 ---
 
