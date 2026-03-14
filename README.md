@@ -74,8 +74,9 @@ The 7-step process and 14 reference files are the depth layer. For a quick namin
 | `language-rules.md` | Working with foreign words — pronunciation, diacritics, transliteration, exoticism trap |
 | `scripts/check-availability.sh` | Bundled availability checker for domains, npm, GitHub, PyPI, Telegram, etc. |
 | `languages/INDEX.md` | Language-specific naming guides — see [index](languages/INDEX.md) for available languages (Polish, Portuguese, and more) |
+| `industries/INDEX.md` | Industry-specific naming guides — see [index](industries/INDEX.md) for available industries |
 
-New language files welcome — see [CONTRIBUTING.md](CONTRIBUTING.md#adding-a-language-file) for the template and required sections.
+New language and industry files welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for templates and required sections.
 
 ## Philosophy
 

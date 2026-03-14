@@ -74,6 +74,24 @@ File naming: `languages/<ISO 639-1 code>.md` (e.g., `de.md`, `ja.md`, `fr.md`). 
 
 **Quality bar:** Write from knowledge of the language and culture, not from a quick Wikipedia skim. If you're not confident about a section, mark it with `<!-- TODO: needs native speaker review -->` and we'll find a reviewer.
 
+## Adding an industry file
+
+Industry files live in `industries/` and cover naming constraints for specific niches. Each file needs these sections:
+
+| Section | What to cover |
+| ------- | ------------- |
+| **Platform constraints** | Character limits, slug formats, store/registry requirements |
+| **Audience expectations** | What sounds premium, trustworthy, or appropriate in this industry |
+| **Naming conventions** | Existing patterns and which are saturated |
+| **Trademark / regulatory** | Industry-specific IP or regulatory naming rules |
+| **Case studies** | 3-5 real names analyzed — what works and why |
+| **Anti-patterns** | What constitutes slop in this specific industry |
+| **Territory map** | Metaphor territories especially relevant to this industry |
+
+File naming: `industries/<industry>.md` (e.g., `saas.md`, `fintech.md`, `developer-tools.md`). Lowercase, hyphens for multi-word names.
+
+After creating the file, add it to `industries/INDEX.md`.
+
 ## Adding case studies
 
 Case studies go in `case-studies.md`, organized by naming technique (Metaphor, Common Word, Compound, Invented, Cultural Reference).
