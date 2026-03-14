@@ -87,28 +87,33 @@ Load [availability.md](availability.md) for the full checking workflow and decis
 
 #### Required actions for EVERY semifinalist:
 
+**1. Competitor conflict search FIRST (WebSearch):**
+
+Do this before any domain or platform checks — it's the most common kill reason, and running availability checks on names that will be killed by competitors wastes effort.
+
+- Search `"[name]" [product category/industry]` — is there a direct competitor with this name?
+- Search `"[name]" software` or `"[name]" app` as a broader check
+- If a direct competitor exists in the same space, the name is **dead**. Drop it immediately — do not check domains or platforms.
+
+**2. Domain and platform checks for survivors:**
+
 **Use the bundled availability script** for fast batch checking:
 ```bash
 bash ${CLAUDE_SKILL_DIR}/scripts/check-availability.sh [name] domain npm github pypi telegram
 ```
-Pass only the platforms relevant to the naming brief. Run it for each semifinalist. The script checks domain (whois for .com/.dev/.io), npm, PyPI, GitHub org, crates.io, RubyGems, WP plugin slug, and Telegram.
+Pass only the platforms relevant to the naming brief. Run it for each surviving semifinalist. The script checks domain (whois for .com/.dev/.io), npm, PyPI, GitHub org, crates.io, RubyGems, WP plugin slug, and Telegram.
 
-**For checks the script doesn't cover** (competitor search, app stores, social handles), use WebSearch.
+**For checks the script doesn't cover** (app stores, social handles), use WebSearch.
 
 **Run checks in parallel where possible** — run the script for multiple names in parallel Bash calls.
 
-**1. Competitor conflict search (WebSearch):**
-- Search `"[name]" [product category/industry]` — is there a direct competitor with this name?
-- Search `"[name]" software` or `"[name]" app` as a broader check
-- If a direct competitor exists in the same space, the name is **dead**. Drop it.
-
-**2. Domain checks (Bash — whois):**
+**3. Domain checks (Bash — whois):**
 - At minimum check `.com` and the most relevant TLD for the product type
 - Bash: `whois [name].com 2>&1 | grep -iE "no match|not found|no data found|available"` — match = available
 - If whois is not installed or fails, fall back to: `curl -s -o /dev/null -w "%{http_code}" https://[name].com` — but note this only checks if a site is live, not domain registration
 - If exact `.com` is taken, also check prefix variants: `whois get[name].com`, `whois use[name].com`
 
-**3. Platform-specific checks (based on naming brief):**
+**4. Platform-specific checks (based on naming brief):**
 
 Run whichever of these the naming brief requires:
 
@@ -125,7 +130,7 @@ Run whichever of these the naming brief requires:
 | **App stores** | WebSearch: `"[name]" site:apps.apple.com` or `"[name]" site:play.google.com` |
 | **Social handles** | WebSearch: `site:x.com/[name]`, `site:instagram.com/[name]` |
 
-**4. Decision gate:**
+**5. Decision gate:**
 - **Drop** candidates that fail critical availability checks (direct competitor, trademark conflict, multiple must-have platforms unavailable)
 - **Flag but keep** candidates where the name is strong enough to justify workarounds (e.g., exact .com taken but get[name].com is free)
 - If fewer than 3 candidates survive, go back to Step 3 and generate more — do NOT lower the bar
