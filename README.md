@@ -60,7 +60,7 @@ The 7-step process and 14 reference files are the depth layer. For a quick namin
 ## Files
 
 | File | Purpose |
-|------|---------|
+| ------ | ------- |
 | `SKILL.md` | Entry point — process overview and navigation |
 | `principles.md` | Core naming principles (metaphor, real words, compounds, length) |
 | `phonosemantics.md` | Sound-meaning connections — how sounds convey attributes |
@@ -71,6 +71,8 @@ The 7-step process and 14 reference files are the depth layer. For a quick namin
 | `availability.md` | Platform checking workflow and domain landscape |
 | `case-studies.md` | Real product name origins and analysis |
 | `evaluation.md` | Scoring rubric, comparison framework, decision checklist |
+| `language-rules.md` | Working with foreign words — pronunciation, diacritics, transliteration, exoticism trap |
+| `scripts/check-availability.sh` | Bundled availability checker for domains, npm, GitHub, PyPI, Telegram, etc. |
 | `languages/pl.md` | Polish — phonosemantics, word formation, Slavic mythology, cultural conventions |
 | `languages/pt-PT.md` | European Portuguese — vowel reduction, maritime cultural territory, diacritics |
 | `languages/pt-BR.md` | Brazilian Portuguese — open vowels, diminutives, Tupi-Guarani, regional variation |
@@ -88,10 +90,40 @@ This skill is opinionated:
 - **Story over sound.** A name with a great origin story and average sound will outperform a name with perfect phonetics and no story.
 - **Kill AI slop.** Suffixes like -ly, -ify, -able, meaningless portmanteaus, and thesaurus extraction produce polished-but-interchangeable names. This skill actively filters them out.
 
+## How the skill uses context
+
+- **Always loaded:** Skill name and description (~2% of context budget)
+- **Loaded on invoke:** SKILL.md (~180 lines, the process overview)
+- **Loaded on demand:** Reference files load only when Claude reaches the relevant step. A simple naming task might only load 2-3 files; a thorough session loads 5-6
+- **Never auto-loaded:** Language files, case-studies.md — only when explicitly relevant
+
+Contributors: keep reference files focused. A 500-line file is fine; a 2,000-line file wastes context on content that may not be relevant.
+
+## Development
+
+### Linting
+
+PRs are checked by [markdownlint](https://github.com/DavidAnson/markdownlint) and [lychee](https://github.com/lycheeverse/lychee) (link checker) via GitHub Actions.
+
+Common lint rules to watch:
+- **MD040** — fenced code blocks need a language tag (use `text` for plain text, `bash` for shell, `markdown` for markdown examples)
+- **MD001** — heading levels must increment by one (`##` → `###`, not `##` → `####`)
+- **MD037** — no spaces inside emphasis markers. Use `` `___` `` (code backticks) for placeholders, not `___` (which looks like emphasis)
+
+Run locally before pushing:
+
+```bash
+npx markdownlint-cli2 '**/*.md'
+```
+
+### Branch protection
+
+`main` is protected — all changes go through pull requests. Direct pushes are blocked.
+
 ## Contributing
 
 PRs welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for conventions, file structure, and how to add language files or case studies.
 
 ## License
 
-MIT
+[MIT](LICENSE)

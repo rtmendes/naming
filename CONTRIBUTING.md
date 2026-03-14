@@ -38,9 +38,13 @@ anti-patterns.md          ← What kills names (AI slop, fatal flaws)
 metaphor-mapping.md       ← Metaphor exploration technique + territory maps
 cultural-references.md    ← When mythology/literature/science references work
 brand-architecture.md     ← Naming within brand families
+language-rules.md         ← Working with foreign words (pronunciation, diacritics, transliteration)
 availability.md           ← Platform checking workflow
 case-studies.md           ← Real product name origins
 evaluation.md             ← Scoring rubric and comparison framework
+
+scripts/
+  check-availability.sh   ← Bundled availability checker (domain, npm, GitHub, etc.)
 
 languages/
   pl.md                   ← Polish naming guide
@@ -57,7 +61,7 @@ Files are loaded on demand during the naming process — not all at once. SKILL.
 Use `languages/pl.md` as the template. Every language file needs these sections:
 
 | Section | What to cover |
-|---------|---------------|
+| ------- | ------------- |
 | **Phonosemantics** | How sounds carry meaning in this language — which sounds feel technical, warm, aggressive, premium. Where this DIFFERS from English. |
 | **Word Formation** | Compounding rules, productive prefixes/suffixes, diminutives/augmentatives. How the language builds new words. |
 | **Cultural Naming Conventions** | What makes a brand name feel premium, cheap, modern, or dated in this culture. Local cultural territories (mythology, history, nature). |
@@ -92,6 +96,25 @@ Requirements:
 - **No emojis**
 - Heading hierarchy: `##` for main sections, `###` for subsections, `####` sparingly
 - When referencing another file, use a relative markdown link: `[principles.md](principles.md)`
+
+## Linting
+
+PRs are automatically checked by [markdownlint](https://github.com/DavidAnson/markdownlint) and a link checker. Your PR won't merge if lint fails.
+
+**Run locally before pushing:**
+
+```bash
+npx markdownlint-cli2 '**/*.md'
+```
+
+**Common issues:**
+
+- Fenced code blocks need a language tag — use `` ```text ``, `` ```bash ``, `` ```markdown ``, not bare `` ``` ``
+- Heading levels must increment by one — `##` → `###`, not `##` → `####`
+- Don't use bare `___` as placeholders in prose — the linter reads them as broken emphasis. Use `` `___` `` (backtick-wrapped) instead
+- No bare URLs — wrap in angle brackets (`<https://example.com>`) or markdown links
+
+See [.markdownlint.yml](.markdownlint.yml) for the full config and disabled rules.
 
 ## What reviewers check
 
