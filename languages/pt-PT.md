@@ -13,7 +13,7 @@ European Portuguese is notable for its **vowel reduction** — unstressed vowels
 European Portuguese has one of the richest vowel inventories in Romance languages, but many vowels are reduced or muted in unstressed positions.
 
 | Sound | Character | Notes |
-|-------|-----------|-------|
+| ------- | ----------- | ------- |
 | **a** (stressed) | Open, warm, grounded | The anchor vowel — *marca* (brand), *clara* (clear) |
 | **a** (unstressed) | Reduced to /ɐ/, muted | Gives words a clipped, efficient feel |
 | **e** (unstressed) | Often reduced to /ɨ/ or dropped | *telefone* sounds like "tlfón" — words feel compressed |
@@ -26,7 +26,7 @@ European Portuguese has one of the richest vowel inventories in Romance language
 ### Consonants
 
 | Sound | Character | Brand feel |
-|-------|-----------|-----------|
+| ------- | ----------- | ----------- |
 | **lh** /ʎ/ | Liquid, bright, distinctive | Warm but refined — *olhar* (to look), *brilho* (shine) |
 | **nh** /ɲ/ | Nasal, soft, intimate | Personal, approachable — *caminho* (path), *sonho* (dream) |
 | **ch** /ʃ/ | Smooth, hushed | Elegant, understated — *chave* (key), *flecha* (arrow) |
@@ -38,7 +38,7 @@ European Portuguese has one of the richest vowel inventories in Romance language
 ### Distinctive Sound Combinations
 
 | Combination | Feel | Examples |
-|-------------|------|----------|
+| ------------- | ------ | ---------- |
 | **-ção** | Formal, action-oriented, process | *criação* (creation), *inovação* (innovation) |
 | **-mente** | Abstract, intellectual | *claramente* (clearly) — avoid in brand names (too long) |
 | **-eiro/-eira** | Agent/craftsman, practical | *faroleiro* (lighthouse keeper), *fronteira* (frontier) |
@@ -62,7 +62,7 @@ Portuguese compounds less than Germanic languages but more than French. Common p
 ### Productive Prefixes
 
 | Prefix | Meaning | Brand potential |
-|--------|---------|----------------|
+| -------- | --------- | ---------------- |
 | **des-** | Undo, remove, reverse | Transformation, simplification — *desvendar* (to unveil) |
 | **re-** | Again, back | Iteration, renewal — *reconstruir* (rebuild) |
 | **sobre-** | Over, above, beyond | Premium, oversight — *sobrevoo* (flyover) |
@@ -72,7 +72,7 @@ Portuguese compounds less than Germanic languages but more than French. Common p
 ### Productive Suffixes
 
 | Suffix | Forms | Brand potential |
-|--------|-------|----------------|
+| -------- | ------- | ---------------- |
 | **-eiro/-eira** | Agent/place/tool | *faroleiro* (lighthouse keeper), *roteiro* (roadmap/itinerary) |
 | **-ão** | Augmentative or agent | *torrão* (clod/homeland), *guardião* (guardian) |
 | **-al** | Place/collective | *pinhal* (pine forest), *portal* (portal/gateway) |
@@ -84,7 +84,7 @@ Portuguese compounds less than Germanic languages but more than French. Common p
 Portuguese has a productive diminutive/augmentative system, though less aggressively used in Portugal than in Brazil.
 
 | Suffix | Effect | Example |
-|--------|--------|---------|
+| -------- | -------- | --------- |
 | **-inho/-inha** | Small, affectionate | *caminho* (path — originally a diminutive of *cão*? No, from Latin *camminus*) |
 | **-ito/-ita** | Small, delicate | *bonito* (pretty, lit. "small good") |
 | **-ão/-ona** | Large, augmentative | *caldeirão* (cauldron), *portão* (large gate) |
@@ -113,7 +113,7 @@ Portuguese has a productive diminutive/augmentative system, though less aggressi
 ### Portuguese Cultural Territory
 
 | Concept | Domain | Naming potential |
-|---------|--------|-----------------|
+| --------- | -------- | ----------------- |
 | **Farol** | Lighthouse | Guidance, monitoring, visibility, safety |
 | **Astrolábio** | Astrolabe | Navigation, precision, exploration |
 | **Caravela** | Caravel (ship) | Discovery, agility, innovation |
@@ -163,7 +163,7 @@ Portuguese uses: **á, â, ã, à, é, ê, í, ó, ô, õ, ú, ç**
 Portuguese words that cause problems internationally:
 
 | Portuguese word | Meaning in Portuguese | Problem |
-|-----------------|----------------------|---------|
+| ----------------- | ---------------------- | --------- |
 | **puto/puta** | Boy (pt-PT) / vulgar (universal) | *Puto* means "boy/kid" in Portugal but is highly offensive in Brazil and Spanish |
 | **rata** | Mouse/rat | Slang for stingy person; sounds unpleasant in most languages |
 | **foca** | Seal (animal) | Sounds like English profanity |

@@ -13,7 +13,7 @@ Every product carries the parent brand name.
 **Pattern:** `[Parent] [Descriptor]`
 
 | Parent | Products |
-|--------|----------|
+| -------- | ---------- |
 | Apple | Apple Pay, Apple Watch, Apple Music, Apple TV |
 | Google | Google Maps, Google Drive, Google Photos |
 | Microsoft | Microsoft Teams, Microsoft Edge |
@@ -38,7 +38,7 @@ Products have their own names but visibly connect to the parent.
 **Pattern:** `[Product Name] by [Parent]` or `[Parent]'s [Product Name]`
 
 | Parent | Products |
-|--------|----------|
+| -------- | ---------- |
 | Marriott | Courtyard by Marriott, Residence Inn by Marriott |
 | Amazon | Kindle by Amazon, Alexa by Amazon |
 | Salesforce | Slack (by Salesforce), Tableau (by Salesforce) |
@@ -61,7 +61,7 @@ Products have completely independent names. The parent brand is invisible to con
 **Pattern:** Each product has its own name, no visible connection
 
 | Parent | Products |
-|--------|----------|
+| -------- | ---------- |
 | Atlassian | Jira, Confluence, Trello, Bitbucket |
 | JetBrains | PyCharm, WebStorm, GoLand, IntelliJ |
 | Procter & Gamble | Tide, Pampers, Gillette, Old Spice |
@@ -84,7 +84,7 @@ Products have completely independent names. The parent brand is invisible to con
 A mix of strategies across the portfolio.
 
 | Parent | Monolithic | Independent |
-|--------|-----------|-------------|
+| -------- | ----------- | ------------- |
 | Google | Google Maps, Google Drive | YouTube, Waze, Fitbit |
 | Amazon | Amazon Prime, Amazon Fresh | Kindle, Alexa, Twitch |
 | Meta | Meta Quest | Instagram, WhatsApp, Threads |

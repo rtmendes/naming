@@ -78,7 +78,7 @@ For package names, prefixing is acceptable (`@org/name`, `org-name`) and often r
 **Priority depends on your audience:**
 
 | Platform | Priority for | Check |
-|----------|-------------|-------|
+| ---------- | ------------- | ------- |
 | X/Twitter | Most products | x.com/[name] |
 | GitHub | Developer tools | github.com/[name] |
 | LinkedIn | Enterprise/B2B | linkedin.com/company/[name] |
@@ -117,7 +117,7 @@ For serious products, do a basic trademark search. You don't need a lawyer for i
 Not every platform needs to be available. Prioritize based on your product type:
 
 | Product Type | Must have | Nice to have | Don't worry about |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | **SaaS product** | Domain, GitHub | X/Twitter, LinkedIn | Instagram, TikTok |
 | **Developer tool** | GitHub org/repo, package registry | Domain, X/Twitter | Instagram, LinkedIn |
 | **Consumer app** | Domain, app store name | Instagram, X/Twitter | GitHub, npm |

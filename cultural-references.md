@@ -74,7 +74,7 @@ Picking a god's name because it "sounds cool" without understanding or connectin
 If the reference is the first thing anyone would grab from a cultural domain, it's already been grabbed:
 
 | Domain | Overused | Better depth |
-|--------|----------|-------------|
+| -------- | ---------- | ------------- |
 | Greek mythology | Zeus, Apollo, Athena, Hercules, Phoenix | Prometheus, Icarus, Daedalus, Mnemosyne, Argos |
 | Norse mythology | Thor, Odin, Loki | Huginn (thought-raven), Bifrost (rainbow bridge), Yggdrasil |
 | Science | Einstein, Newton, Tesla | Curie, Faraday, Kepler, Lovelace |

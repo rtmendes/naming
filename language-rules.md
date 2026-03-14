@@ -13,7 +13,7 @@ A foreign word only works as a name if your target audience can say it. Differen
 ### High compatibility (most phonemes map to English)
 
 | Language | Why it works | Watch out for |
-|----------|-------------|---------------|
+| ---------- | ------------- | --------------- |
 | **Japanese** | CV syllable structure, no clusters, familiar vowels | Long vowels (ō vs o) lost in English; pitch accent ignored |
 | **Italian** | Open syllables, vowel-final words, familiar consonants | Geminate consonants (ll, tt) often ignored by English speakers |
 | **Spanish** | Similar vowel system, regular stress | Trilled r, ñ may be simplified |
@@ -22,7 +22,7 @@ A foreign word only works as a name if your target audience can say it. Differen
 ### Medium compatibility (some unfamiliar sounds)
 
 | Language | Usable with care | Common failure points |
-|----------|-----------------|----------------------|
+| ---------- | ----------------- | ---------------------- |
 | **French** | Nasal vowels, uvular r — recognizable but not natural | Silent letters create spelling confusion |
 | **German** | Most consonants familiar, compounds readable | ch (/x/), ü, ö, umlauts dropped internationally |
 | **Portuguese** | Mostly accessible, nasal vowels distinctive | ão, nh, lh are beautiful but unfamiliar |
@@ -31,7 +31,7 @@ A foreign word only works as a name if your target audience can say it. Differen
 ### Low compatibility (major barriers for English speakers)
 
 | Language | Why it's hard | Workaround |
-|----------|--------------|------------|
+| ---------- | -------------- | ------------ |
 | **Mandarin/Cantonese** | Tones don't survive transliteration | Use meaning-based translation, not phonetic borrowing |
 | **Arabic** | Pharyngeals (ʿ, ḥ), emphatics have no English equivalent | Simplify transliteration; choose words without pharyngeals |
 | **Polish/Czech** | Consonant clusters (szcz, přž) feel unpronounceable | Pick words with simpler clusters or modify spelling |
@@ -64,7 +64,7 @@ Before committing to a foreign word, verify it doesn't carry unfortunate meaning
 ### Famous failures
 
 | Name | Source | Problem |
-|------|--------|---------|
+| ------ | -------- | --------- |
 | **Nova** (Chevy) | Latin (new) | "No va" = "doesn't go" in Spanish. The car sold fine anyway, but the story persists as a cautionary tale |
 | **Pinto** (Ford) | English (horse marking) | Slang for small penis in Brazilian Portuguese |
 | **Mist Stick** (Clairol) | English | "Mist" = manure in German |
@@ -120,7 +120,7 @@ When borrowing from non-Latin scripts, you must choose a romanization. Multiple 
 ### Common decisions
 
 | Language | Multiple systems | Recommendation for naming |
-|----------|-----------------|--------------------------|
+| ---------- | ----------------- | -------------------------- |
 | **Japanese** | Hepburn vs Kunrei vs Nihon-shiki | Hepburn — it's what English speakers expect (sushi, karate, tsunami) |
 | **Mandarin** | Pinyin vs Wade-Giles | Pinyin — it's the international standard. Wade-Giles is outdated except in historical contexts |
 | **Korean** | Revised Romanization vs McCune-Reischauer | Revised Romanization — it's the South Korean government standard |
@@ -137,7 +137,7 @@ Some languages reliably produce usable names for international audiences. Others
 ### Best for international borrowing
 
 | Language | Why | Examples |
-|----------|-----|---------|
+| ---------- | ----- | --------- |
 | **Japanese** | Short words, CV structure, familiar sounds, rich concept vocabulary | Kaizen, emoji, tsunami, origami, bokeh |
 | **Latin** | Root of most English technical vocabulary, familiar morphemes | Nexus, vertex, apex, cipher, alias |
 | **Sanskrit** | Root of many English words, prestigious associations | Avatar, guru, mantra, yoga, nirvana |
@@ -148,7 +148,7 @@ Some languages reliably produce usable names for international audiences. Others
 ### Best for domestic market naming
 
 | Language | Why it works domestically | Why it doesn't travel |
-|----------|--------------------------|----------------------|
+| ---------- | -------------------------- | ---------------------- |
 | **Polish** | Rich morphology, Slavic mythology, distinctive identity | Consonant clusters, diacritics, unfamiliar phonemes |
 | **Finnish** | Unique sound, cultural pride, productive morphology | Double vowels/consonants confuse non-Finns |
 | **Georgian** | World's most distinctive script, unique sounds | Ejectives and clusters are unpronounceable internationally |

@@ -11,7 +11,7 @@ Brazilian Portuguese is **vowel-forward** — unstressed vowels stay open and au
 ### Vowel System
 
 | Sound | Character | Notes |
-|-------|-----------|-------|
+| ------- | ----------- | ------- |
 | **a** (stressed) | Open, warm, expansive | Same as pt-PT but stays open even unstressed |
 | **a** (unstressed) | Stays as /a/ or light /ɐ/ | Words feel fuller than in European Portuguese |
 | **e** (unstressed) | Often becomes /i/ at word end | *gente* → "jénchi" — softens endings |
@@ -26,7 +26,7 @@ Brazilian Portuguese is **vowel-forward** — unstressed vowels stay open and au
 Several consonants are pronounced differently in Brazil:
 
 | Sound | Brazilian pronunciation | Brand feel |
-|-------|----------------------|-----------|
+| ------- | ---------------------- | ----------- |
 | **t** (before i/e) | /tʃ/ "tch" | Softer, warmer — *time* (team) → "tchíme" |
 | **d** (before i/e) | /dʒ/ "dj" | Buzzy, energetic — *dia* (day) → "djía" |
 | **-te/-de** (final) | /tʃi/, /dʒi/ | Words ending in -te/-de get an extra syllable feel |
@@ -39,7 +39,7 @@ Several consonants are pronounced differently in Brazil:
 ### Sound Combinations with Brand Potential
 
 | Combination | Feel | Examples |
-|-------------|------|----------|
+| ------------- | ------ | ---------- |
 | **-ção** | Action, process, dynamism | *inovação* (innovation), *criação* (creation) |
 | **-eiro/-eira** | Practical, maker, place | *pioneiro* (pioneer), *fronteira* (frontier) |
 | **-eza** | Quality, beauty, strength | *beleza* (beauty), *certeza* (certainty) |
@@ -62,7 +62,7 @@ Brazilian Portuguese follows the same compound structures as European Portuguese
 ### Productive Prefixes
 
 | Prefix | Meaning | Brand potential |
-|--------|---------|----------------|
+| -------- | --------- | ---------------- |
 | **des-** | Undo, simplify | *descomplicar* (to uncomplicate) — very Brazilian concept |
 | **re-** | Again, renewal | *reinventar* (reinvent), *reconectar* (reconnect) |
 | **sobre-** | Over, above | *sobrevoo* (flyover), *sobrenatural* (supernatural) |
@@ -72,7 +72,7 @@ Brazilian Portuguese follows the same compound structures as European Portuguese
 ### Productive Suffixes
 
 | Suffix | Forms | Brand potential |
-|--------|-------|----------------|
+| -------- | ------- | ---------------- |
 | **-eiro/-eira** | Agent/place | *desbravador* → *desbraveiro*? Better: *bandeirante* (explorer) |
 | **-ão** | Augmentative, impactful | *trovão* (thunder), *sertão* (backlands) |
 | **-eza** | Abstract quality | *fortaleza* (fortress), *natureza* (nature) |
@@ -84,7 +84,7 @@ Brazilian Portuguese follows the same compound structures as European Portuguese
 Brazilian Portuguese uses diminutives **far more** than European Portuguese. They're not just "small" — they express affection, informality, softening, approximation, and even irony.
 
 | Suffix | Usage | Example |
-|--------|-------|---------|
+| -------- | ------- | --------- |
 | **-inho/-inha** | Universal diminutive, affection | *certinho* (just right), *jeitinho* (the Brazilian way — a whole cultural concept) |
 | **-zinho/-zinha** | After consonants/stressed vowels | *florzinha* (little flower), *cafezinho* (coffee — the ritual, not just the drink) |
 | **-ão/-ona** | Augmentative | *bocão* (big mouth), *grandão* (really big) |
@@ -115,7 +115,7 @@ Brazilian Portuguese uses diminutives **far more** than European Portuguese. The
 ### Brazilian Cultural Territory
 
 | Concept | Domain | Naming potential |
-|---------|--------|-----------------|
+| --------- | -------- | ----------------- |
 | **Bandeirante** | Colonial-era explorer/pioneer | Discovery, exploration, pushing boundaries (handle with cultural sensitivity) |
 | **Sertão** | The arid backlands | Resilience, endurance, authenticity |
 | **Quilombo** | Maroon community/resistance | Community, resistance, self-organization |
@@ -132,7 +132,7 @@ Brazilian Portuguese uses diminutives **far more** than European Portuguese. The
 Many iconic Brazilian place names and words come from Tupi-Guarani languages. These carry deep Brazilian identity:
 
 | Word | Meaning | Naming potential |
-|------|---------|-----------------|
+| ------ | --------- | ----------------- |
 | **Itá** | Stone/rock | Foundation, durability |
 | **Guaçu** | Big/great | Scale, importance |
 | **Mirim** | Small | Lightweight, focused |
@@ -181,7 +181,7 @@ The 2009 orthographic agreement (Acordo Ortográfico) unified most spelling betw
 Words that cause problems between Brazil and Portugal or internationally:
 
 | Word | Meaning in Brazil | Problem |
-|------|-------------------|---------|
+| ------ | ------------------- | --------- |
 | **bicha** | Homophobic slur (Brazil) | Means "queue/line" in Portugal — never use in a Brazilian context |
 | **puto** | Angry (Brazil) | Means "boy/kid" in Portugal, vulgar in Spanish |
 | **rapariga** | Pejorative for woman (Brazil, some regions) | Means "girl/young woman" in Portugal (neutral) |

@@ -9,7 +9,7 @@ Understanding how real products got their names is more useful than any naming f
 ### Metaphor Names (Concrete Image → Abstract Function)
 
 | Name | Product | Origin | Why it works |
-|------|---------|--------|-------------|
+| ------ | --------- | -------- | ------------- |
 | **Sentry** | Error monitoring | Named after the Starcraft unit icon early on; "sentry" = a guard that watches for trouble | Perfect function→metaphor mapping. 2 syllables. The image is immediate: a guard at a gate, watching for errors. |
 | **Docker** | Container platform | A dock worker who loads and unloads cargo from ships | The metaphor extends perfectly — the whale logo carries containers. The entire conceptual system (images, containers, registries, shipping) is coherent. |
 | **Vault** | Secret management | A secure storage room, a bank vault | 1 syllable. The name IS the product. The metaphor is so direct it's almost literal, which is a feature not a bug. |
@@ -22,7 +22,7 @@ Understanding how real products got their names is more useful than any naming f
 ### Common Word Names (Recontextualized Dictionary Words)
 
 | Name | Product | Origin | Why it works |
-|------|---------|--------|-------------|
+| ------ | --------- | -------- | ------------- |
 | **Stripe** | Payments | A stripe of data, a stripe on a credit card | 1 syllable. The word's existing visual meaning maps to the product. Phonetically sharp (str- cluster + front vowel). |
 | **Linear** | Project management | Literally "linear" — straight, direct, no clutter | The word's dictionary meaning IS the brand promise. Clean, simple, straight-line workflow. |
 | **Notion** | Notes and docs | A notion — an idea, a thought | The product captures ideas. 2 syllables, soft sound matches the product's gentle, flexible character. |
@@ -36,7 +36,7 @@ Understanding how real products got their names is more useful than any naming f
 ### Compound Names (Two Words Combined)
 
 | Name | Product | Origin | Why it works |
-|------|---------|--------|-------------|
+| ------ | --------- | -------- | ------------- |
 | **Datadog** | Monitoring | From a feared Oracle database instance called "Datadog17" at the founders' previous company | Both halves carry specific meaning. Internal origin adds authenticity. The "dog" half adds personality (watchdog). |
 | **PagerDuty** | Incident response | At Amazon, being on-call was literally called "pager duty" | Named after the real experience of the people who use it. Industry jargon elevated to brand name. |
 | **Wordfence** | WordPress security | "Word" (WordPress) + "fence" (barrier, protection) | Both halves earn their place. Domain-specific compound. 2 syllables. |
@@ -49,7 +49,7 @@ Understanding how real products got their names is more useful than any naming f
 ### Invented Names (New Words, Grounded in Morphemes)
 
 | Name | Product | Origin | Why it works |
-|------|---------|--------|-------------|
+| ------ | --------- | -------- | ------------- |
 | **Figma** | Design tool | From "figure" — explored variations when the dictionary word was taken | Short (5 chars), invented but intuitive, globally pronounceable. The "fig-" root is recognizable. 2 syllables. |
 | **Vercel** | Frontend platform | Professional rename from "ZEIT" (hard to spell across languages) | Connects to "versatile," "accelerate," "excel." Tested by linguists in 5 languages for pronunciation. 2 syllables. |
 | **Grafana** | Dashboards | Riffs on "graph" + Romance-language suffix "-ana" | Invented but obviously rooted in "graph." The suffix feels natural, like a place where graphs live. 3 syllables that flow. |
@@ -61,7 +61,7 @@ Understanding how real products got their names is more useful than any naming f
 ### Cultural Reference Names
 
 | Name | Product | Origin | Why it works |
-|------|---------|--------|-------------|
+| ------ | --------- | -------- | ------------- |
 | **Prometheus** | Monitoring | Greek titan who stole fire (knowledge/light) from the gods and gave it to humanity | Monitoring brings visibility (light) to dark systems. The reference is specific (not Zeus/Apollo), and the mapping is deep — Prometheus didn't just "have" fire, he specifically brought it to those who needed it. |
 | **Kafka** | Streaming platform | Franz Kafka, author of novels about complex bureaucratic systems (*The Trial*, *The Castle*) | A streaming platform that manages complex data pipelines. The ironic parallel (Kafkaesque complexity) is intentional and appreciated by the developer audience. |
 | **Jira** | Project management | From "Gojira" (Japanese word for Godzilla) | Developers at the company used Bugzilla; they started calling their tool by the Japanese Godzilla name, then shortened it. Internal joke that produced a great word. 2 syllables, unique. |
@@ -75,7 +75,7 @@ Understanding how real products got their names is more useful than any naming f
 ## Names That Teach By Failing
 
 | Name | Product Category | What went wrong | Lesson |
-|------|-----------------|-----------------|--------|
+| ------ | ----------------- | ----------------- | -------- |
 | **Uptime Robot** | Monitoring | Descriptive + generic. "Uptime" is the category, "Robot" is filler. Functional but zero personality. | Description ≠ name. Nobody excitedly recommends "Uptime Robot." |
 | **ManageWP** | WordPress management | "Manage" is a verb, "WP" is an abbreviation. It describes the product category, not a brand. | Abbreviations in names force the reader to decode. Decoding is friction. |
 | **CloudWatch** | AWS monitoring | "Cloud" = filler. "Watch" = generic. Interchangeable with CloudMonitor, CloudGuard, CloudSentry in memory. | Filler + generic = invisible. The name disappears into the category. |
@@ -90,7 +90,7 @@ Understanding how real products got their names is more useful than any naming f
 Some of the best names were almost different:
 
 | Final name | Almost was | Why they changed |
-|-----------|-----------|-----------------|
+| ----------- | ----------- | ----------------- |
 | **Discord** | Bonfire | "Bonfire" was too warm and friendly for the brand's edge. "Discord" had tension and irony. |
 | **Vercel** | ZEIT | "ZEIT" (German for "time") was hard to spell and pronounce across languages. Renamed for global accessibility. |
 | **Slack** | Linefeed | "Linefeed" was too technical and niche. "Slack" had universal meaning and better sound. |

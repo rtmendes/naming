@@ -15,7 +15,7 @@ This isn't magic. It's pattern recognition. Your brain has processed millions of
 The airflow is completely stopped and then released — a mini-explosion in the mouth. The physical sensation mirrors the perceived meaning.
 
 | Sound | Character | Examples |
-|-------|-----------|----------|
+| ------- | ----------- | ---------- |
 | **Hard K** | Authority, hardness, cold edge | Kafka, Kraft, Slack, Clerk |
 | **Hard T/D** | Precision, decisiveness, finality | Docker, Dot, Dart, Deno |
 | **Hard P/B** | Impact, power, punch | Bolt, Bash, Pulsar, Pub |
@@ -30,7 +30,7 @@ Best for: Developer tools, infrastructure, security products, monitoring, anythi
 Air flows continuously through a narrow gap — the sound itself is fluid.
 
 | Sound | Character | Examples |
-|-------|-----------|----------|
+| ------- | ----------- | ---------- |
 | **F** | Flow, forward motion | Figma, Flux, Firebase, Fly |
 | **V** | Vibration, velocity, vitality | Vercel, Vite, Vue, Vim |
 | **S** | Speed, sharpness, precision | Stripe, Svelte, Supabase |
@@ -45,7 +45,7 @@ Best for: Performance tools, design tools, communication products, anything that
 Air resonates through the nasal cavity — literally a hum.
 
 | Sound | Character | Examples |
-|-------|-----------|----------|
+| ------- | ----------- | ---------- |
 | **M** | Warmth, approachability | Miro, Mongo, Medium |
 | **N** | Softness, neutrality | Notion, Neon, Nuxt, Next |
 | **NG** | Ongoing action, continuity | (typically in endings: -ing) |
@@ -57,7 +57,7 @@ Best for: Consumer products, collaboration tools, creative tools, anything that 
 **Convey:** Fluidity (l) or roughness/energy (r)
 
 | Sound | Character | Examples |
-|-------|-----------|----------|
+| ------- | ----------- | ---------- |
 | **L** | Lightness, fluidity, clarity | Linear, Loom, Lit |
 | **R** | Energy, roughness, motion | React, Redis, Rust, Ray |
 | **Low rumble (dr, gr, br)** | Weight, depth, power | Drone, Grafana, Brix |
@@ -115,7 +115,7 @@ The placement of stress affects how a name feels in the mouth and mind.
 ### Rhythm Patterns That Work
 
 | Pattern | Character | Examples |
-|---------|-----------|----------|
+| --------- | ----------- | ---------- |
 | One hard syllable | Maximum impact | Vault, Stripe, Slack, Go |
 | Two syllables, stress-first | Decisive, confident | Sentry, Docker, Linear |
 | Two syllables with hard landing | Punchy, memorable | Redline, Deadbolt, Tripwire |
@@ -137,7 +137,7 @@ How a name ends affects its aftertaste:
 Use this as a guide, not a straitjacket. A name that breaks sound conventions but has a perfect metaphor will outperform a name with perfect sound alignment but no story.
 
 | Product character | Recommended sounds | Avoid |
-|---|---|---|
+| --- | --- | --- |
 | **Powerful / Infrastructure** | Plosives (k, t, d), back vowels (o, u, aw) | Soft nasals, diminutive -y endings |
 | **Fast / Performance** | Fricatives (s, v, z), front vowels (i, ee) | Heavy clusters, back vowels |
 | **Friendly / Consumer** | Nasals (m, n), open vowels, liquids (l) | Harsh plosive clusters |
@@ -153,7 +153,7 @@ Use this as a guide, not a straitjacket. A name that breaks sound conventions bu
 Some consonant combinations carry specific connotations in English due to pattern frequency:
 
 | Cluster | Connotation | Words that built this pattern |
-|---------|-------------|-------------------------------|
+| --------- | ------------- | ------------------------------- |
 | **gl-** | Light, visual | glow, gleam, glint, glitter, glass, glare |
 | **sn-** | Nose, quick motion | sniff, sneeze, snore, snap, snag, snare |
 | **sl-** | Smooth motion, negative | slide, slip, slick, slime, slack, sly |

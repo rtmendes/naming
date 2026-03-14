@@ -11,7 +11,7 @@ Real-world examples of how Polish companies approach naming:
 ### Polish names for Polish markets
 
 | Brand | Name meaning | Strategy | Why it works |
-|-------|-------------|----------|-------------|
+| ------- | ------------- | ---------- | ------------- |
 | **Żabka** | Little frog (żaba + diminutive -ka) | Animal + diminutive | Warmth, friendliness, ubiquity — 11,000+ convenience stores. The diminutive -ka makes it approachable |
 | **Biedronka** | Ladybug (biedronka = ladybird) | Animal + diminutive | Same pattern as Żabka — cute animal name for mass-market retail. Poland's largest discount chain |
 | **Żubr** | European bison | National symbol | Poland's national animal = instant recognition, strength, pride. Best-selling beer by 2016 |
@@ -25,7 +25,7 @@ Real-world examples of how Polish companies approach naming:
 ### International ambitions → English names
 
 | Brand | Origin | Strategy | Why they switched/chose English |
-|-------|--------|----------|---------------------------------|
+| ------- | -------- | ---------- | --------------------------------- |
 | **Allegro** | Originally planned as "Zatoka" (bay, modeled on eBay) — name was taken | Italian musical term (lively/fast) | Universal sound, no pronunciation barriers, positive energy. Italy signals quality in European context |
 | **InPost** | In + Post (postal) | English compound | Clean in both Polish and English. Domestic product "Paczkomat" (paczka + automat) became more recognized than the parent brand in Poland |
 | **Brainly** | Started as **Zadane.pl** (from *zadanie* = homework) | English portmanteau (brain + -ly) | Rebranded for US expansion. Original Polish name was descriptive and untranslatable |
@@ -37,7 +37,7 @@ Real-world examples of how Polish companies approach naming:
 ### Fintech naming
 
 | Brand | Analysis |
-|-------|----------|
+| ------- | ---------- |
 | **mBank** | Single-letter prefix (m = mobile/modern) + Bank. Minimalist, tech-forward. Consolidated from three brands (MultiBank, BRE Bank, mBank) in 2013 |
 | **BLIK** | Short, sharp, instant-sounding. Evolved from IKO (rebranded because "IKO" sounded too close to "PKO" bank). Germanic root *blik* = shine/flash/gleam. Phonosemantics at work — the /bl/ + /ɪk/ combination feels fast and decisive |
 
@@ -52,7 +52,7 @@ Polish phonosemantics differ significantly from English. Sounds that feel harsh 
 Polish allows complex onsets that would be unpronounceable in English. These are **normal**, not exotic:
 
 | Cluster | Example word | Feel |
-|---------|-------------|------|
+| --------- | ------------- | ------ |
 | **prz-** | przegląd (overview) | Neutral, common — not aggressive |
 | **trz-** | trzask (crack/snap) | Sharp, energetic |
 | **str-** | strumień (stream) | Flowing despite the cluster |
@@ -67,7 +67,7 @@ Polish allows complex onsets that would be unpronounceable in English. These are
 Polish has a rich sibilant inventory — two full series (hard and soft):
 
 | Sound | Character | Brand feel |
-|-------|-----------|-----------|
+| ------- | ----------- | ----------- |
 | **sz** /ʂ/ | Hard, broad, grounded | Technical, sturdy — szybki (fast), szlak (trail) |
 | **cz** /tʂ/ | Sharp, decisive | Precise, clean — czysty (clean), czar (charm) |
 | **ś** /ɕ/ | Soft, intimate, light | Friendly, approachable — świat (world), śnieg (snow) |
@@ -80,7 +80,7 @@ Polish has a rich sibilant inventory — two full series (hard and soft):
 Polish has a simple 6-vowel system (a, e, i, o, u/ó, y) plus two nasal vowels:
 
 | Sound | Character | Notes |
-|-------|-----------|-------|
+| ------- | ----------- | ------- |
 | **a** | Open, strong, grounded | The most "brand-friendly" Polish vowel |
 | **o** | Round, full, solid | Feels stable, trustworthy |
 | **e** | Neutral, versatile | Works everywhere |
@@ -113,7 +113,7 @@ Polish compounds less freely than German or English. Most Polish "compounds" are
 Polish has an extremely productive diminutive system — far richer than English. Diminutives don't just mean "small" — they express affection, familiarity, and approachability.
 
 | Suffix | Effect | Example |
-|--------|--------|---------|
+| -------- | -------- | --------- |
 | **-ek**, **-ik** | Friendly, small, approachable | domek (little house), konik (little horse) |
 | **-ka** | Feminine, warm, personal | chmurka (little cloud), iskierka (little spark) |
 | **-ko** | Neuter, cute, affectionate | okienko (little window), słoneczko (little sun) |
@@ -125,7 +125,7 @@ Polish has an extremely productive diminutive system — far richer than English
 ### Productive Prefixes
 
 | Prefix | Meaning | Brand potential |
-|--------|---------|----------------|
+| -------- | --------- | ---------------- |
 | **prze-** | Through, across, beyond | Transformation, processing — *prześwit* (clearance/light coming through) |
 | **nad-** | Over, above, super | Oversight, premium — *nadzór* (supervision) |
 | **pod-** | Under, sub, support | Foundation, infrastructure — *podpora* (support/pillar) |
@@ -136,7 +136,7 @@ Polish has an extremely productive diminutive system — far richer than English
 ### Productive Suffixes
 
 | Suffix | Forms | Brand potential |
-|--------|-------|----------------|
+| -------- | ------- | ---------------- |
 | **-nik** | Agent nouns (person/tool that does X) | *strażnik* (guardian), *przewodnik* (guide) |
 | **-arz** | Agent nouns (craftsman/professional) | *latarniarz* (lamplighter) |
 | **-nia** | Place where X happens | *kuźnia* (forge), *strażnica* (watchtower) |
@@ -148,7 +148,7 @@ Polish has an extremely productive diminutive system — far richer than English
 Polish productively creates nouns from verbs — useful for naming tools and products:
 
 | Suffix | What it creates | Examples | Brand potential |
-|--------|----------------|---------|----------------|
+| -------- | ---------------- | --------- | ---------------- |
 | **-acz** | Agent — "the one that does X" | *gracz* (player), *nadawacz* (transmitter), *kopacz* (digger) | Short, punchy, action-oriented. Good for tools that DO something |
 | **-arka** | Instrument/machine — "the thing that does X" | *drukarka* (printer), *zmywarka* (dishwasher), *wiertarka* (drill) | Excellent for tool/utility naming. Clear mechanical connotation |
 | **-anie/-enie** | Action/process (gerund) | *programowanie* (programming), *czytanie* (reading) | Too long and formal for brand names. Better as category descriptors |
@@ -156,7 +156,7 @@ Polish productively creates nouns from verbs — useful for naming tools and pro
 ### Compound Adjective Prefixes
 
 | Prefix | Meaning | Connotation | Examples |
-|--------|---------|-------------|---------|
+| -------- | --------- | ------------- | --------- |
 | **wielko-** | Great, large | Scale, grandeur | *wielkopolski* (Greater Poland), *wielkomiejski* (big-city) |
 | **mało-** | Small, little | Can be dismissive | *małomiasteczkowy* (small-town/provincial) — use carefully |
 | **szybko-** | Fast, quick | Speed, efficiency | *szybkoschnący* (quick-drying), *szybkostrzelny* (rapid-fire) |
@@ -192,7 +192,7 @@ The augmentative suffix -isko/-ysko emphasizes largeness but carries **generally
 Less pillaged than Greek/Norse in tech. Rich source material:
 
 | Figure/Concept | Domain | Naming potential |
-|---------------|--------|-----------------|
+| --------------- | -------- | ----------------- |
 | **Strzybóg** | God of winds | Distribution, networking, speed |
 | **Swaróg** | God of fire and smithing | Creation, forge, building tools |
 | **Weles** | God of underworld, cattle, wealth | Data, databases, storage, commerce |
@@ -209,7 +209,7 @@ Less pillaged than Greek/Norse in tech. Rich source material:
 Less known but phonetically appealing names with metaphorical depth:
 
 | Creature | What it is | Naming potential |
-|----------|-----------|-----------------|
+| ---------- | ----------- | ----------------- |
 | **Południca** | Lady Midday — noon demon in white with a sickle. Causes heatstroke but also enforces rest periods. Dual nature: threat + protection | Security/monitoring tools (dual threat-and-protection nature). Scheduling tools (noon timing) |
 | **Strzyga** | Vampire-like demon born with two hearts, two souls, two sets of teeth. One soul passes on at death; the other reanimates | Duality metaphor — dual-process systems, backup/redundancy, split-testing |
 | **Ognik** (from Błędne Ogniki) | Will-o'-wisps that guard forgotten treasures. Lure wanderers with hypnotic lights | Discovery/search tools ("leading you to hidden things"). Short, phonetically appealing name |
@@ -219,7 +219,7 @@ Less known but phonetically appealing names with metaphorical depth:
 ### Seasonal Rituals and Concepts
 
 | Concept | What it is | Naming potential |
-|---------|-----------|-----------------|
+| --------- | ----------- | ----------------- |
 | **Noc Kupały** | Slavic midsummer festival (1,500+ years old). Key: flower wreaths in rivers, jumping over bonfires, searching for the mythical fern flower at midnight (grants treasure-finding) | Discovery, search, renewal. "Kupała" has strong positive associations — courage and finding hidden things |
 | **Dziady** | Ancestor veneration ritual. Name from *dziad* (grandfather/ancestor). Feasts for souls, campfires to guide spirits | Version control, archival, legacy systems. "Grandfathers" = previous versions |
 | **Dożynki** | Harvest festival — cutting the last crops, making a harvest wreath, feast. Still celebrated as a national event | Completion, gathering results, analytics dashboards. "Harvest" = collecting output |
@@ -263,7 +263,7 @@ Polish uses 9 letters with diacritics: **ą, ć, ę, ł, ń, ó, ś, ź, ż**
 Polish words that cause problems internationally:
 
 | Polish word | Meaning in Polish | Problem |
-|-------------|-------------------|---------|
+| ------------- | ------------------- | --------- |
 | **kur** | Rooster | Offensive in some languages |
 | **dupa** | Butt | Widely known as Polish profanity |
 | **kant** | Edge/border | Surname associations, sounds harsh |
@@ -277,7 +277,7 @@ Polish words that cause problems internationally:
 These are the most dangerous because Czech and Slovak are closely related to Polish — words look similar but meanings diverge:
 
 | Polish word | Polish meaning | Czech/Slovak meaning | Risk level |
-|-------------|---------------|---------------------|------------|
+| ------------- | --------------- | --------------------- | ------------ |
 | **szukać** | To search | *šukať* (SK) = to f**k | **Critical** — any search-related name is dead in Slovak |
 | **droga** | Road, way | *droga* (CZ) = drug, narcotic | High — negative association |
 | **zachód** | West | *záchod* (CZ) = toilet | Embarrassing |
@@ -289,7 +289,7 @@ These are the most dangerous because Czech and Slovak are closely related to Pol
 Relevant due to growing Ukrainian community in Poland:
 
 | Polish word | Polish meaning | Ukrainian/Russian meaning | Risk level |
-|-------------|---------------|--------------------------|------------|
+| ------------- | --------------- | -------------------------- | ------------ |
 | **uroda** | Beauty | *уrod* (RU) = freak, monster | **Critical** — direct opposite |
 | **sklep** | Shop, store | *склеп* (UA) = crypt, vault | Morbid |
 | **dywan** | Carpet | *диван* (UA/RU) = sofa, couch | Confusion |
@@ -315,7 +315,7 @@ Three patterns, each signaling a different register:
 ### When to name in Polish vs English
 
 | Context | Language | Examples |
-|---------|----------|---------|
+| --------- | ---------- | --------- |
 | Polish-only market, mass consumer | Polish | Żabka, Biedronka, Wykop |
 | Polish market, aspirational positioning | Foreign word (Italian, French, Latin) | Allegro |
 | International ambition from day one | English | Booksy, Brainly, InPost |

@@ -44,7 +44,7 @@ These are organized by product function. Use them as starting points, not as the
 ### Monitoring / Watching / Alerting
 
 | Sub-territory | Concepts |
-|---------------|----------|
+| --------------- | ---------- |
 | **Military/Security** | Sentry, lookout, watchtower, outpost, patrol, scout, recon |
 | **Nature (predators)** | Owl, hawk, falcon, eagle — sharp-eyed, nocturnal, patient |
 | **Nature (warning systems)** | Canary (in coal mines), bee sentinels, prairie dog alarms |
@@ -55,7 +55,7 @@ These are organized by product function. Use them as starting points, not as the
 ### Background Processes / Silent Operations
 
 | Sub-territory | Concepts |
-|---------------|----------|
+| --------------- | ---------- |
 | **Computing** | Daemon, cron, service, agent, worker, thread |
 | **Supernatural** | Ghost, phantom, specter, shade, spirit, poltergeist |
 | **Underground** | Root network, mycelium, aquifer, undercurrent, magma |
@@ -66,7 +66,7 @@ These are organized by product function. Use them as starting points, not as the
 ### Data Processing / Aggregation
 
 | Sub-territory | Concepts |
-|---------------|----------|
+| --------------- | ---------- |
 | **Industrial** | Furnace, smelter, refinery, mill, forge, foundry |
 | **Filtering** | Sieve, filter, distillery, centrifuge, press |
 | **Gathering** | Trawler, dredger, harvester, combine, collector |
@@ -77,7 +77,7 @@ These are organized by product function. Use them as starting points, not as the
 ### Communication / Notification
 
 | Sub-territory | Concepts |
-|---------------|----------|
+| --------------- | ---------- |
 | **Light signals** | Beacon, flare, semaphore, signal fire, lamp, torch |
 | **Messengers** | Herald, courier, envoy, dispatch, runner, carrier |
 | **Sound signals** | Bell, horn, klaxon, siren, whistle, gong, chime |
@@ -88,7 +88,7 @@ These are organized by product function. Use them as starting points, not as the
 ### Security / Protection
 
 | Sub-territory | Concepts |
-|---------------|----------|
+| --------------- | ---------- |
 | **Architecture** | Vault, keep, citadel, bastion, fortress, moat, rampart |
 | **Armor/Defense** | Shield, bulwark, palisade, aegis, mantle, carapace |
 | **Locking** | Lock, seal, cipher, bolt, clasp, latch, keystone |
@@ -98,7 +98,7 @@ These are organized by product function. Use them as starting points, not as the
 ### Speed / Performance
 
 | Sub-territory | Concepts |
-|---------------|----------|
+| --------------- | ---------- |
 | **Mechanical** | Turbine, jet, afterburner, piston, flywheel |
 | **Physics** | Bolt, photon, pulse, arc, vector, trajectory |
 | **Automotive** | Redline, throttle, torque, nitro, turbo |
@@ -108,7 +108,7 @@ These are organized by product function. Use them as starting points, not as the
 ### Creative / Design Tools
 
 | Sub-territory | Concepts |
-|---------------|----------|
+| --------------- | ---------- |
 | **Instruments** | Chisel, brush, pen, lens, loom, palette |
 | **Materials** | Canvas, marble, clay, ink, pigment, grain |
 | **Spaces** | Studio, atelier, workshop, gallery, stage |
@@ -118,7 +118,7 @@ These are organized by product function. Use them as starting points, not as the
 ### Organization / Project Management
 
 | Sub-territory | Concepts |
-|---------------|----------|
+| --------------- | ---------- |
 | **Navigation** | Compass, chart, atlas, meridian, bearing, heading |
 | **Architecture** | Blueprint, scaffold, frame, keystone, cornerstone |
 | **Nature** | Current, stream, flow, channel, delta, tributary |
@@ -128,7 +128,7 @@ These are organized by product function. Use them as starting points, not as the
 ### Finance / Payments
 
 | Sub-territory | Concepts |
-|---------------|----------|
+| --------------- | ---------- |
 | **Physical money** | Mint, bullion, ingot, coin, ledger, vault |
 | **Trade** | Exchange, barter, market, bazaar, till, counter |
 | **Flow** | Stream, pipeline, channel, tap, well, spring |
@@ -138,7 +138,7 @@ These are organized by product function. Use them as starting points, not as the
 ### Education / Learning
 
 | Sub-territory | Concepts |
-|---------------|----------|
+| --------------- | ---------- |
 | **Light/Revelation** | Lamp, lantern, beacon, torch, dawn, spark |
 | **Journey** | Path, trail, trek, quest, ascent, bridge |
 | **Nature** | Seed, root, bloom, branch, canopy, grove |
@@ -148,7 +148,7 @@ These are organized by product function. Use them as starting points, not as the
 ### Health / Wellness
 
 | Sub-territory | Concepts |
-|---------------|----------|
+| --------------- | ---------- |
 | **Nature** | Spring, meadow, grove, breeze, shore, tide |
 | **Body** | Pulse, breath, stride, core, balance, align |
 | **Restoration** | Mend, restore, salve, balm, tonic, remedy |
@@ -162,7 +162,7 @@ These are organized by product function. Use them as starting points, not as the
 The richest names often come from unexpected territory combinations:
 
 | Product | Territories crossed | Result concept |
-|---------|---------------------|----------------|
+| --------- | --------------------- | ---------------- |
 | Error monitoring | Military + Mining | Canary (coal mine warning system applied to code) |
 | Container orchestration | Nautical + Computing | Helm (steering a ship → steering containers) |
 | CI/CD pipeline | Metalworking + Computing | Forge (raw materials → finished product) |

@@ -24,7 +24,7 @@ Rate each finalist on these criteria. Use a 1-5 scale where:
 ### Core Criteria (Weight: High)
 
 | Criterion | What to evaluate | Weight |
-|-----------|-----------------|--------|
+| ----------- | ----------------- | -------- |
 | **Metaphor strength** | Does the name plant a concrete image? Does the metaphor connect to the product's function? | 3x |
 | **Memorability** | After hearing it once, would someone remember it tomorrow? | 3x |
 | **Story** | Can you tell a 15-second origin story? Does it produce a "that's clever" reaction? | 2x |
@@ -33,7 +33,7 @@ Rate each finalist on these criteria. Use a 1-5 scale where:
 ### Practical Criteria (Weight: Medium)
 
 | Criterion | What to evaluate | Weight |
-|-----------|-----------------|--------|
+| ----------- | ----------------- | -------- |
 | **Phone test** | Can someone spell it after hearing it? Can they say it after reading it? | 2x |
 | **Length** | 1-2 syllables ideal, 3 acceptable, 4+ problematic. Character count under 7 ideal. | 1x |
 | **Sound alignment** | Do the sounds match the product's character? (See phonosemantics.md) | 1x |
@@ -42,7 +42,7 @@ Rate each finalist on these criteria. Use a 1-5 scale where:
 ### Context Criteria (Weight: Situational)
 
 | Criterion | What to evaluate | Weight |
-|-----------|-----------------|--------|
+| ----------- | ----------------- | -------- |
 | **Brand fit** | If part of a family, does it feel like it belongs? | 1x |
 | **Global friendliness** | Can speakers of other languages pronounce it? Any negative meanings in other languages? | 1x |
 | **Longevity** | Will the name still work in 5-10 years? Does it reference anything that will date it? | 1x |
