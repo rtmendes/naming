@@ -177,7 +177,7 @@ The richest names often come from unexpected territory combinations:
 
 Use this for your own product:
 
-```
+```text
 PRODUCT: _______________
 CORE FUNCTION (one sentence): _______________
 

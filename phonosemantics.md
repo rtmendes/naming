@@ -177,6 +177,6 @@ When you have a shortlist of name candidates, run this sound check:
 2. **Match dominant sounds to product character.** Do they align?
 3. **Check the vowel weight.** Front (light/fast) vs back (heavy/powerful) — does it match?
 4. **Listen to the ending.** Does it stop cleanly or trail off? Which serves the name better?
-5. **Try it in a sentence.** "Check the ___ dashboard." "We switched to ___." Does the rhythm work in natural speech?
+5. **Try it in a sentence.** "Check the `___` dashboard." "We switched to `___`." Does the rhythm work in natural speech?
 
 Sound alignment is a tiebreaker, not a dealbreaker. A name with a great metaphor and slightly mismatched sounds will always beat a phonetically perfect name with no story.

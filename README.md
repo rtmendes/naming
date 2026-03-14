@@ -39,7 +39,7 @@ git clone https://github.com/glacierphonk/naming.git ~/.claude/skills/naming
 
 In Claude Code:
 
-```
+```text
 /naming
 ```
 

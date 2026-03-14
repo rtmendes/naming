@@ -122,7 +122,7 @@ When you're creating multiple products under one parent, establishing a naming c
 
 For technical products (bots, APIs, CLI tools), the username/handle convention creates family connection:
 
-```
+```text
 Product name    Handle/Username         Repo name
 ─────────────   ──────────────────────  ─────────────
 Sentry          @sentry                 getsentry/sentry

@@ -50,7 +50,7 @@ Rate each finalist on these criteria. Use a 1-5 scale where:
 
 ### Scoring Template
 
-```
+```text
 NAME: _______________
 
 CORE (high weight):
@@ -83,36 +83,36 @@ Maximum possible score: 100 (all 5s). In practice, anything above 75 is strong. 
 Names live in sentences, not in isolation. Test every finalist in these contexts:
 
 ### Introduction
-> "Have you tried ___?"
-> "We just launched ___."
-> "I've been using ___ for a month."
+> "Have you tried `___`?"
+> "We just launched `___`."
+> "I've been using `___` for a month."
 
 Does the name sound natural in casual recommendation?
 
 ### Explanation
-> "We built ___ to solve [problem]."
-> "___ is a [category] that [does what]."
+> "We built `___` to solve [problem]."
+> "`___` is a [category] that [does what]."
 
 Does the name sit comfortably next to its description, or does it feel disconnected?
 
 ### Daily Use
-> "Check the ___ dashboard."
-> "The ___ API is down."
-> "___ just sent an alert."
-> "Let me push this to ___."
+> "Check the `___` dashboard."
+> "The `___` API is down."
+> "`___` just sent an alert."
+> "Let me push this to `___`."
 
 Does the name work as a noun in technical conversation?
 
 ### Marketing
-> "___ — [tagline]"
-> "Get started with ___ in 5 minutes."
-> "Why teams switch to ___."
+> "`___` — [tagline]"
+> "Get started with `___` in 5 minutes."
+> "Why teams switch to `___`."
 
 Does the name work in headlines and calls to action?
 
 ### Word of Mouth
-> "You should try this thing called ___."
-> "Our team switched to ___ last quarter."
+> "You should try this thing called `___`."
+> "Our team switched to `___` last quarter."
 
 This is the most important test. Would someone actually say this name in conversation to a colleague? If the name feels awkward spoken aloud, word-of-mouth growth is crippled.
 
@@ -122,7 +122,7 @@ This is the most important test. Would someone actually say this name in convers
 
 When comparing finalists, use this format:
 
-```
+```text
 ┌─────────────┬──────────┬──────────┬──────────┐
 │ Criterion   │ Name A   │ Name B   │ Name C   │
 ├─────────────┼──────────┼──────────┼──────────┤
@@ -178,7 +178,7 @@ If two or more names score within 5 points of each other, use these tiebreakers 
 
 When presenting finalists to stakeholders or making a final decision, use this structure:
 
-```
+```text
 FINALIST: [Name]
 
 Origin: [15-second story — why it's called this]

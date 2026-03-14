@@ -93,7 +93,7 @@ Before committing to a foreign word, verify it doesn't carry unfortunate meaning
 
 Always register the ASCII-stripped version of the name as the primary domain and handle. Use the diacriticked version as a redirect or display name:
 
-```
+```text
 Primary: kuznia.com / @kuznia
 Display: Kuźnia
 ```

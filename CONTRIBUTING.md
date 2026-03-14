@@ -28,7 +28,7 @@ Not looking for: subjective opinions without evidence, AI-generated filler, mark
 
 ## File structure
 
-```
+```text
 SKILL.md                  ← Entry point. Defines the 7-step process.
                              Only change this for process flow updates.
 
@@ -78,7 +78,7 @@ Requirements:
 
 - **Verifiable origin story** — link to a primary source: founder interview, blog post, podcast, company documentation. "I think the name comes from..." is not a case study.
 - **Follow the existing table format:**
-  ```
+  ```markdown
   | **Name** | Product category | Origin story | Why it works |
   ```
 - **"Why it works" must reference specific principles** from the skill — which principles does this name satisfy? What makes the metaphor strong?
