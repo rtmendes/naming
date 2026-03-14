@@ -47,6 +47,16 @@ Then describe what you need a name for. Claude will walk you through the full pr
 
 You can also reference the skill naturally in conversation — describe your naming challenge and Claude will pull in the relevant reference files.
 
+### Quick start
+
+You don't need to read any of the reference files before using the skill. Just:
+
+1. Type `/naming`
+2. Describe what you're building in one sentence
+3. Claude handles the rest — it loads the right references at each step
+
+The 7-step process and 14 reference files are the depth layer. For a quick naming session, Claude compresses the process automatically. The reference files exist so you can dive deeper when needed.
+
 ## Files
 
 | File | Purpose |
